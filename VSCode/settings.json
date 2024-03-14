@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Ariake Dark",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline",
+    "vscode-pets.petType": "totoro",
+    "vscode-pets.position": "explorer",
+    "vscode-pets.petSize": "medium",
+    "files.autoSave": "afterDelay",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "vscode-pets.theme": "forest",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "[go]": {
+      "editor.defaultFormatter": "golang.go"
+    },
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[terraform]": {
+      "editor.defaultFormatter": "hashicorp.terraform"
+    },
+    "[terraform-vars]": {
+      "editor.defaultFormatter": "remimarsal.prettier-now"
+    },
+    "[yaml]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+      "editor.formatOnType": true
+    }
+  }
